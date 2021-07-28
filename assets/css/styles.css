@@ -343,7 +343,7 @@ img{
 
 /* ===== FOOTER =====*/
 .footer{
-  background-color: var(--first-color);
+  background-color: var(--second-color);
   color: #fff;
   text-align: center;
   font-weight: var(--font-semi);
