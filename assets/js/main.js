@@ -11,10 +11,6 @@ const showMenu = (toggleId, navId) =>{
 }
 showMenu('nav-toggle','nav-menu')
 
-function refreshPage(){
-    window.location.reload();
-} 
-
 /*===== ACTIVE AND REMOVE MENU =====*/
 const navLink = document.querySelectorAll('.nav__link');   
 
